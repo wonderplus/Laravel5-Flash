@@ -1,8 +1,8 @@
 Using laracasts/flash with Laravel  
 ====
 
-https://github.com/laracasts/flash
-https://packagist.org/packages/laracasts/flash
+https://github.com/laracasts/flash  
+https://packagist.org/packages/laracasts/flash  
 
 
 ## Å° flash installation 
